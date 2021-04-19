@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804829669466",
+    "project_id": "spyvebdemo1",
+    "storage_bucket": "spyvebdemo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804829669466:android:7d6ee72f367c61d1a45063",
+        "android_client_info": {
+          "package_name": "com.app.spyveb_flutter_demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804829669466-blk6jjkbbplt5b7d5a1hfrg1t28nmp74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.spyveb_flutter_demo1",
+            "certificate_hash": "116287463d0fbea5df9805eb967c757204fea0f1"
+          }
+        },
+        {
+          "client_id": "804829669466-kljmkq125dkut5f44mabji2cr7a32i6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVTGEipV1IVKibIf9ywkS9fPBebWNEsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804829669466-kljmkq125dkut5f44mabji2cr7a32i6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
